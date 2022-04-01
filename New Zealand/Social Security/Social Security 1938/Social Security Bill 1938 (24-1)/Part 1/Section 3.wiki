@@ -1,0 +1,6 @@
+{{ol|start=3|item_style=font-weight:bold|Social Security Department}}
+{{ol
+    | There is hereby established a Department of State, to be called the Social Security Department (hereinafter referred to as the Department).
+    | The Departmnet  may be divided into two or more separate Divisions.
+    | All such Registrars, clerks, and other officers of the Department as may be required shall be appointed in accordance with the provisions of the Public Service Act, 1912.
+}}

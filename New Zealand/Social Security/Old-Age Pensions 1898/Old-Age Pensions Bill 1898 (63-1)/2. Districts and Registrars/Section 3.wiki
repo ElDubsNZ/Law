@@ -1,0 +1,5 @@
+{{ol|start=3|item_style=font-weight:bold|Districts}}
+{{ol
+    | For the purposes of this Act the Governor may from time to time divide the colony into such districts, with such names and boundaries, as he thinks fit.
+    | If any such district is constituted by reference to the boundaries of any other portion of the colony, as defined by any other Act, then any alteration in such boundaries shall take effect in respect of such district without any further proceedings, unless the Governor otherwise determines.
+}}

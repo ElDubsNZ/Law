@@ -1,0 +1,15 @@
+{{ol|start=40|item_style=font-weight:bold|Interpretation}}
+{{ol|type=none
+    | The Stipendiary Magistrate by warrant in the prescribed form, may waive any such forfeiture in any case where, after investigation, he is satisfied—
+    {{ol
+        | That, if the forfeiture was occasioned by default of personal application for payment, or of application within the prescribed time, such default was due to the pensioner's illness, or temporary absence from the place (but not from the colony), or other sufficient cause; or
+        | That, if the forfeiture was occasioned by default in producing the pension-certificate, such default was due to its being lost or mislaid:
+        {{ol|type=none
+            | Provided—
+        }}
+        {{ol|type=lower-alpha
+            | That, except in special cases of the pensioner's illness or debility, it shall not be lawful for the Stipendiary Magistrates to issue two such warrants in succession to the same pensioner; and also
+            | That in no case shall any such warrant be issued unless it is applied for within fourteen days after the forfeiture occurred.
+        }}
+    }}
+}

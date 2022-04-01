@@ -1,0 +1,5 @@
+{{ol|type=none|item_style=font-weight:bold|Preamble}}
+{{ol|type=none
+    | {{uc|{{di|W}}hereas}} several members of the Volunteer Corps and others were disabled or otherwise severely wounded while acting with or in aid of Her Majesty's Forces in the suppression of the late rebellion in the northern part of this Province, and it is fitting that provision be made for or towards the support and maintenance of such persons as were seriously injured while so acting as aforesaid:
+    | {{sc|Be it therefore enacted}} by the Governor-in-Chief of New Zealand, with the advice and consent of the Legislative Council thereof, as follows:—
+}}

@@ -1,0 +1,4 @@
+{{ol|start=2|item_style=font-weight:bold|To be submitted to Executive Council}}
+{{ol|type=none
+    | Every such application shall be submitted to the consideration of the Executive Council of the Province, who are hereby authorized and empowered to appoint a Board of Medical Examiners to report on the nature and extent of the injuries alleged to have been received by the person making such application as aforesaid.
+}}

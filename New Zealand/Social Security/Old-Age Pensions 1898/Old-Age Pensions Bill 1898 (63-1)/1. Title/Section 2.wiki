@@ -1,0 +1,9 @@
+{{ol|start=2|item_style=font-weight:bold|Interpretation}}
+{{ol|type=none
+    | In this Act, if not inconsistent with the context,—
+}}
+{{ol|type=none
+    | {{definition|Income}} means any moneys or profits derived or received by any person for his own use or benefit in any year by any means or from any source; and shall be deemed to include personal earnings, but not any pension payable under this Act:
+    | {{definition|Income-year}} means the year ending one month before the date on which the pension-claim is finally admitted, and at the same time in each subsequent year:
+    | {{Prescribed}} means prescribed by this Act or by regulations thereunder.
+}}

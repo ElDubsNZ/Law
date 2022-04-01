@@ -1,0 +1,4 @@
+{{ol|start=4|item_style=font-weight:bold|If recommendation be confirmed by Governor, pension to be granted}}
+{{ol|type=none
+    | Upon the confirmation of any such recommendation as aforesaid by the Governor or other the Officer Administering the Government of the Province for the time being, duly notified in the Government Gazette, the person in whose favour such recommendation shall have been made shall be entitled to receive the pension or other allowance so to be awarded to him as aforesaid.
+}}

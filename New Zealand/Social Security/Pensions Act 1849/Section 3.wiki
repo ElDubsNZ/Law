@@ -1,0 +1,4 @@
+{{ol|start=3|item_style=font-weight:bold|Who may recommend pensions to be granted}}
+{{ol|type=none
+    | In every case in which it shall be proved to the satisfaction of the said Executive Council that the person making such application is entitled to the benefit of this Ordinance, it shall be lawful for the said Council to recommend such pension or other allowance to be made to him as (regard being had to the circumstances of the case) to them shall seem meet: Provided always that the amount of the pension or allowance so, recommended as aforesaid shall in no case exceed double the pension in like case awarded to persons of corresponding rank in Her Majesty's regular Forces, as set forth in the scale in that behalf provided by Royal Warrant bearing date the twenty-fourth day of May, one thousand eight hundred and forty-seven.
+}}

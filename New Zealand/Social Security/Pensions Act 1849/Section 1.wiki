@@ -1,0 +1,4 @@
+{{ol|item_style=font-weight:bold|Application for pensions how to be made}}
+{{ol|type=none
+    | Every such person who may have been so wounded as aforesaid and who may be desirous of availing himself of the provisions of this Ordinance shall, on or before the first day of January, one thousand eight hundred and fifty-one, make application for that purpose in writing to the Colonial Secretary, setting forth the nature and extent of his wounds, and the circumstances under which he may have received the same.
+}}

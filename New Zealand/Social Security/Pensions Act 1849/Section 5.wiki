@@ -1,0 +1,4 @@
+{{ol|start=5|item_style=font-weight:bold|Chargeable upon general revenue of Province}}
+{{ol|type=none
+    | All such pensions or allowances shall issue and be payable out of the general revenue of the Province, and shall be paid monthly, viz., on the first day of every month in every year, and the acquittance or receipt of the person to whom such pension or other allowance shall be so awarded shall alone be a sufficient discharge for the payment of the same: Provided always that it shall be lawful for the Governor in Council at any time to stop the payment of any such pension for such and the same causes as pensions held by persons having served in Her Majesty's regular Forces are liable to be forfeited.
+}}
