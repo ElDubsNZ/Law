@@ -1,7 +1,5 @@
-<center><big>'''No. III.'''</big></center>
-
 {{law-pAct-t
- | short    = No. III.
+ | short = No. III.
 }}
 
 {{sc|An Ordinance}} to authorize the Payment of Pensions to certain Persons in consideration of the Injuries received by them while acting with or in aid of Her Majesty's Forces. [''24th August'', 1849.]
