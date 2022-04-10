@@ -1,0 +1,4 @@
+{{ol|start=2|item_style=font-weight:bold|Powers given to Officers of Customs to enter the premises of such dealers and publicans}}
+{{ol|type=none
+    | And be it enacted That in case any person shall refuse to permit such officer and his assistants (after a demand for that purpose being made by such officer) to enter into any such stores or premises as aforesaid or in case any person after such entrance shall hinder interrupt or prevent such officer from making such examination and taking such account as aforesaid {{sidenote|Penalties for obstructing them}}every such person shall be liable to a penalty of five hundred pounds.
+}}

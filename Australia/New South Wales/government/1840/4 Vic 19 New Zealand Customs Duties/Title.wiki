@@ -1,0 +1,5 @@
+{{ol|type=none|item_style=font-weight:bold|New Zealand Customs Duties}}
+{{ol|type=none
+    | An Act to regulate the payment of the Duties of Customs in Her Majesty's Dominions in the Islands of New Zealand.
+}}
+{{effective date|1840-10-13}}

@@ -1,0 +1,4 @@
+{{ol|start=2|item_style=font-weight:bold|Application of penalties}}
+{{ol|type=none
+    | And be it enacted That all forfeitures and penalties recovered under this Act shall be divided paid and applied (after deducting the charges of prosecution and other contingent expenses) as follows that is to say one moiety to Her Majesty for the public uses of the said Islands and the other moiety to the seizing Officer or to the person or persons who shall sue or shall have sued for such penalty.
+}}
