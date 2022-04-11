@@ -1,4 +1,4 @@
-{{ol|start=2|item_style=font-weight:bold|Wholesale dealers in spirts to be licensed}}
+{{ol|start=4|item_style=font-weight:bold|Wholesale dealers in spirts to be licensed}}
 {{ol|type=none
     | And be it enacted That from and after the passing and publication of this Act and until {{date|1841-07-01|the first day of July one thousand eight hundred and forty-one}} it shall not be lawful for any person or persons to import into the said Islands of New Zealand or to sell or dispose of by ''wholesale'' therein any spirituous liquors without having previously obtained from the Governor of the said Colony of New South Wales or from the Lieutenant Governor of the said Islands of New Zealand a license authorizing such person or persons to import or to dispose of the same under a penalty of five hundred pounds provided however that nothing herein contained shall subject to the said penalty or in any manner prevent any person holding a license as a publican within the said Islands of New Zealand from selling or disposing of spirituous liquors by retail pursuant to and under the terms and conditions of such license.
 }}

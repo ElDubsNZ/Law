@@ -1,4 +1,4 @@
-{{ol|start=2|item_style=font-weight:bold|Duties already paid not to be refunded}}
+{{ol|start=3|item_style=font-weight:bold|Duties already paid not to be refunded}}
 {{ol|type=none
     | And be it enacted That nothing in this Act contained shall be held or construed to entitle any person whomsoever to any drawback or exemption from any rates dues fees or duties of Customs which may have been paid or demanded from such person in New Zealand under and by virtue of any Law or Ordinance which may have been in force within the said Colony of New South Wales and its Dependencies before the passing and publication of this Act.
 }}

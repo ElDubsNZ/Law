@@ -1,4 +1,4 @@
-{{ol|start=2|item_style=font-weight:bold|Penalties and forfeitures how to be sued for}}
+{{ol|start=10|item_style=font-weight:bold|Penalties and forfeitures how to be sued for}}
 {{ol|type=none
     | And be it enacted That all penalties and forfeitures incurred or imposed by this Act shall and may be sued for prosecuted and recovered by action of debt bill plaint or information in any of Her Majesty's Courts of Record in the said Islands or in the Courts of Vice Admiralty in the name of Her Majesty's Attorney General or in the name or names of some Officer or Officers of Her Majesty's Customs or by information before any two or more Justices of the Peace for the said Islands.
 }}
