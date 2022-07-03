@@ -1,0 +1,5 @@
+Short Name = Extension of N. S. W. Laws to New Zealand Act 1840
+Long Name  = An Act to declare that the Laws of New South Wales extend to Her Majesty's Dominions in the Islands of New Zealand and to apply the same so far as applicable in the Administration of Justice therein and to indemnify certain Officers for acts already done.
+Enacted    = 1840-06-16
+Monarch    = 3 Victoria 28
+Format     = sidenotes

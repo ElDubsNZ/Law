@@ -1,4 +1,4 @@
-{{ol|type=none|item_style=font-weight:bold|Court of Claims.}}
+{{ol|type=none|item_style=font-weight:bold|{{sc|Court of Claims}}.}}
 {{ol|type=none
     | An Act to empower the Governor of New South Wales to appoint Commissioners with certain powers to examine and report on Claims to Grants of Land in New Zealand.
 }}
