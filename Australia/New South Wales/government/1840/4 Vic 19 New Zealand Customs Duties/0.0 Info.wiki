@@ -1,0 +1,5 @@
+Short Name = New Zealand Customs Duties Act 1840
+Long Name  = An Act to regulate the payment of the Duties of Customs in Her Majesty's Dominions in the Islands of New Zealand.
+Enacted    = 1840-10-13
+Monarch    = 4 Victoria 19
+Format     = sidenotes
