@@ -1,5 +1,4 @@
 {{ol|start=B|item_style=font-weight:bold|Secretary's Oath.}}
-{{text/start}}
 I{{gap|10em}}do solemnly swear that faithfully diligently and impartially to the best of my ability I will execute the duties of Secretary to the Commissioners appointed under and by virtue of a certain Act of the Governor of New South Wales with the advice of the Legislative Council of the said Colony made and passed in the fourth year of the reign of Her Majesty Queen Victoria intituled “''An Act to empower the Governor of New South Wales to appoint Commissioners with certain powers to examine and report on Claims to Grants of Land in New Zealand''” and that I will not myself directly or indirectly take or receive or knowingly permit any other person to take or receive any fee or reward for any thing done or performed under and by virtue of any of the provisions of the said Act and that I will duly account for and pay over to the Colonial Treasurer of New South Wales or the Treasurer of New Zealand on the last day of every month or as soon thereafter as may be practicable all fees previously received by me as in the said Act directed.
 {{center|So help me God.}}
 
@@ -7,4 +6,3 @@ I{{gap|10em}}do solemnly swear that faithfully diligently and impartially to the
 Sworn before me this day of {{gap|5em}} 184{{gap|1em}}. '''}'''
 
 Judge of the Supreme Court of New South Wales.
-{{text/end}}
