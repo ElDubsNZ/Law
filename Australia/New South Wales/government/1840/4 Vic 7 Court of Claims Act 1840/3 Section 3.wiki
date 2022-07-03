@@ -1,0 +1,4 @@
+{{ol|start=3|item_style=font-weight:bold|Governor may appoint Secretary to Commissioners.}}
+{{ol|type=none
+    | And be it enacted That some fit and proper person or persons may from time to time be appointed by the said Governor to perform the duties of Secretary or Secretaries to the said Commissioners should the said Governor deem the appointment of such Secretary or Secretaries to be necessary and the said Secretary or Secretaries shall before exercising any of the duties of his or their office take and subscribe before one of the Judges of the said Supreme Court or before such person resident in New Zealand as the Chief Justice for the time being of the said Court shall under his hand and seal nominate and appoint for that purpose the oath set forth in the {{intref|Schedule B|Schedule to this Act annexed marked B}}.
+}}

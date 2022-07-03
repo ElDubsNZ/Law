@@ -1,0 +1,4 @@
+{{ol|start=12|item_style=font-weight:bold|Saving the rights and prerogative of Her Majesty.}}
+{{ol|type=none
+    | Provided always and be it declared and enacted That nothing in this Act contained shall be deemed in any way to affect any right or prerogative of Her Majesty Her Heirs or Successors.
+}}

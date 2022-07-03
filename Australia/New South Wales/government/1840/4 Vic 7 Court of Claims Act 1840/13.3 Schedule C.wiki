@@ -1,0 +1,21 @@
+{{ol|start=B|item_style=font-weight:bold|Fees to be received by the Secretary.}}
+{|
+|||£||s.||d.||
+|-
+| For filing any memorial with the Colonial Secretary or opposition thereto||5||0||0||Five pounds
+|-
+| For every summons for witnesses each summons containing two names by the party requiring the same||0||5||0||Five shillings
+|-
+| For every witness examined or document or voucher produced in evidence by the party on whose behalf examined or produced||0||5||0||Five shillings
+|-
+| For taking down the examination of any witness||0||5||0||Five shillings
+|-
+| For every one hundred words after the first hundred additional||0||10||6||Two shillings and sixpence
+|-
+| For every certificate granted by Commissioners of default refusal to answer or wilful withdrawing of any witness||1||0||0||One pound
+|-
+| For any final report to be paid by the party or parties in whose favor made when the extent of the land recommended be not exceeding five hundred acres||5||10||0||Five pounds Ten shillings.
+|-
+| For every additional one hundred acres||5||0||0||Five pounds
+|-
+|}

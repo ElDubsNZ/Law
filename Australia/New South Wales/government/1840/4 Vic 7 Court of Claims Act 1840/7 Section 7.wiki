@@ -1,0 +1,4 @@
+{{ol|start=7|item_style=font-weight:bold|Meetings of the Commissioners.}}
+{{ol|type=none
+    | And be it enacted That the meetings of the said Commissioners shall be holden in such manner as the said Governor shall from time to time appoint and the said Commissioners shall proceed with all due dispatch to investigate and report upon the claims referred to them.
+}}

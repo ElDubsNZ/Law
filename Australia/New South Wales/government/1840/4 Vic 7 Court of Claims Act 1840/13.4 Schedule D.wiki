@@ -1,0 +1,22 @@
+{{ol|start=B|item_style=font-weight:bold|Time when the Purchases were made.}}
+{|
+|-
+| colspan="3" style="text-align:center;" | Time when the Purchases were made. || colspan="2" | || colspan="5" style="text-align:center;" | Per Acre.
+|-
+|||||||||||s.||d.||||s.||d.
+|-
+|From 1st January||1815||to 31st December||1824||{{...}} {{...}} {{...}}||0||6||||||
+|-
+|style="text-align:center;"|”||1825||style="text-align:center;"|”||1829||{{...}} {{...}} {{...}}||0||6||to||0||8
+|-
+|style="text-align:center;"|”||1830||style="text-align:center;"|”||1834||{{...}} {{...}} {{...}}||0||8||to||1||0
+|-
+|style="text-align:center;"|”||1835||style="text-align:center;"|”||1836||{{...}} {{...}} {{...}}||1||0||to||2||0
+|-
+|style="text-align:center;"|”||1837||style="text-align:center;"|”||1838||{{...}} {{...}} {{...}}||2||0||to||4||0
+|-
+|style="text-align:center;"|”||1839||style="text-align:center;"|”||1839||{{...}} {{...}} {{...}}||4||0||to||8||0
+|-
+|}
+And fifty per cent. above these rates for persons not personally resident in New Zealand or not having a resident agent on the spot.
+Goods when given to the natives in barter for land to be estimated at three times their selling price in Sydney at the time.
