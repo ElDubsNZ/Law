@@ -1,0 +1,4 @@
+{{ol|start=2|item_style=font-weight:bold|Provost Marshal to execute the Judgement of the Court. If five Members do not concur in Adjudging Capital Offenders, the Proceedings to be transmitted to his Majesty.}}
+{{ol|type=none
+    | And be it further enacted, That the Provost Marshal, or other Officer to be for that Purpose appointed by such Governor or Lieutenant Governor, shall cause due Execution of such Judgement to be had and made under and according to the Warrant of such Governor, or Lieutenant Governor in the Absence of the Governor, under his Hand and Seal, and not otherwise: Provided always, That Execution shall not be had or done on any Capital Convict or Convicts, unless five Persons present in such Court shall concur in adjudging him, her, or them, so accused and tried as aforesaid, to be respectively guilty, until the Proceedings shall have been transmitted to his Majesty, and by him approved.
+}}

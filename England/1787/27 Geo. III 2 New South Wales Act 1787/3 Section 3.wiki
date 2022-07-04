@@ -1,0 +1,4 @@
+{{ol|start=3|item_style=font-weight:bold|Court to be a Court of Record.}}
+{{ol|type=none
+    | And be it also enacted by the Authority aforesaid, That the said Court shall be a Court of Record, and shall have all such Powers as by the Laws of England are incident and belonging to a Court of Record.
+}}
