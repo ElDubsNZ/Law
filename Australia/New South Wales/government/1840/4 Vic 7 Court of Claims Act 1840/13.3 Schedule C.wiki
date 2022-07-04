@@ -1,8 +1,8 @@
-{{ol|start=B|item_style=font-weight:bold|Fees to be received by the Secretary.}}
+{{ol|start=B|item_style=font-weight:bold|Fees to be received by the secretary.}}
 {|
 |||£||s.||d.||
 |-
-| For filing any memorial with the Colonial Secretary or opposition thereto||5||0||0||Five pounds
+| For filing any memorial with the Colonial secretary or opposition thereto||5||0||0||Five pounds
 |-
 | For every summons for witnesses each summons containing two names by the party requiring the same||0||5||0||Five shillings
 |-

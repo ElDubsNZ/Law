@@ -1,4 +1,4 @@
-{{ol|start=1|item_style=font-weight:bold|So much of all Lows of New South Wales as have already been and can be applied to the Colony of New Zealand adopted.}}
+{{ol|start=1|item_style=font-weight:bold|so much of all Lows of New south Wales as have already been and can be applied to the Colony of New Zealand adopted.}}
 {{ol|type=none
-    | And whereas doubts may arise as to the validity of Acts done and performed in the said Colony of New Zealand, since the date of Her said Majesty’s Royal Charter and Letters Patent, by His Excellency as the Lieutenant-Governor of the same, and by Justices of the Peace, officers of Customs, constables, and other officers, under and by virtue of the said partly recited Act of the Governor and Legislative Council of New South Wales, for the removal whereof,—
+    | And whereas doubts may arise as to the validity of Acts done and performed in the said Colony of New Zealand, since the date of Her said Majesty’s Royal Charter and Letters Patent, by His Excellency as the Lieutenant-Governor of the same, and by Justices of the Peace, officers of Customs, constables, and other officers, under and by virtue of the said partly recited Act of the Governor and Legislative Council of New south Wales, for the removal whereof,—
 }}

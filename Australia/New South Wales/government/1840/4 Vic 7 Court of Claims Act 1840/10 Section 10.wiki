@@ -1,4 +1,4 @@
-{{ol|start=10|item_style=font-weight:bold|Salaries to be paid to the Commissioners and Secretary.}}
+{{ol|start=10|item_style=font-weight:bold|salaries to be paid to the Commissioners and secretary.}}
 {{ol|type=none
-    | And be it enacted That the said Commissioners and their Secretary shall and may receive for their own use such salaries as the Governor of New South Wales for the time being shall direct and appoint which salaries respectively it shall and may be lawful for the said Governor to order and direct by warrant under his hand to be paid from and out of the revenues of New Zealand and the same shall be the whole of the remuneration of the said Commissioners and Secretary and every of them respectively for and in respect of their said offices.
+    | And be it enacted That the said Commissioners and their secretary shall and may receive for their own use such salaries as the Governor of New south Wales for the time being shall direct and appoint which salaries respectively it shall and may be lawful for the said Governor to order and direct by warrant under his hand to be paid from and out of the revenues of New Zealand and the same shall be the whole of the remuneration of the said Commissioners and secretary and every of them respectively for and in respect of their said offices.
 }}

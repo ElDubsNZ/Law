@@ -1,4 +1,4 @@
-{{ol|item_style=font-weight:bold|Short Title}}
+{{ol|item_style=font-weight:bold|short Title}}
 {{ol|type=none
-    | The Short Title of this Act is “The Old-age Pensions Act, 1898.”
+    | The short Title of this Act is “The Old-age Pensions Act, 1898.”
 }}

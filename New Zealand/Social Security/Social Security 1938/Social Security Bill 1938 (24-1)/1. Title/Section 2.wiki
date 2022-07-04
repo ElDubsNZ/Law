@@ -4,7 +4,7 @@
 }}
 {{ol|type=none
     |{{sc|Part}} I.—Administration.
-    |{{sc|Part}} II.—Superannuation Benefits, and Benefits in respect of Age and other Special Conditions.
+    |{{sc|Part}} II.—superannuation Benefits, and Benefits in respect of Age and other special Conditions.
     |{{sc|Part}} III.—Medical and Hospital Benefits, and other Related Benefits.
     |{{sc|Part}} IV.—Financial Provisions.
     |{{sc|Part}} V.—General.

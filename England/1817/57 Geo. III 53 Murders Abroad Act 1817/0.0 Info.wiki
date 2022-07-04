@@ -1,0 +1,5 @@
+short Name = Murders Abroad Act 1817
+Long Name  = An Act for the more effectual Punishment of Murders and Manslaughters committed in Places not within His Majesty's Dominions:
+Enacted    = 1817-06-27
+Monarch    = 57 George III 53
+Format     = sidenotes, long s

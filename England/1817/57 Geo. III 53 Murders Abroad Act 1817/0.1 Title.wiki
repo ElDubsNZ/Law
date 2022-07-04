@@ -1,0 +1,5 @@
+{{ol|type=none|item_style=font-weight:bold|C A P. LIII.}}
+{{ol|type=none
+    | An Act for the more effectual Punishment of Murders and Manslaughters committed in Places not within His Majesty's Dominions:
+}}
+{{effective date|1817-06-27}}

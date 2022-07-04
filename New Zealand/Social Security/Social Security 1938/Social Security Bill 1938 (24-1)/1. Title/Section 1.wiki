@@ -1,4 +1,4 @@
-{{ol|item_style=font-weight:bold|Short Title}}
+{{ol|item_style=font-weight:bold|short Title}}
 {{ol|type=none
-    | This Act may be cited as the Social Security Act, 1938.
+    | This Act may be cited as the social security Act, 1938.
 }}
