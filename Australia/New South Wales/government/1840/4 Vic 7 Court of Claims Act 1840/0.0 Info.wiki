@@ -1,5 +1,5 @@
 short Name = Court of Claims Act 1840
-Long Name  = An Act to empower the Governor of New south Wales to appoint Commissioners with certain powers to examine and report on Claims to Grants of Land in New Zealand.
+Long Name  = An Act to empower the Governor of New South Wales to appoint Commissioners with certain powers to examine and report on Claims to Grants of Land in New Zealand.
 Enacted    = 1840-08-04
 Monarch    = 4 Victoria 7
 Format     = sidenotes
