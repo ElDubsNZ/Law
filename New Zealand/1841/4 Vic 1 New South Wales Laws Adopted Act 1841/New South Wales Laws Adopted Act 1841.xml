@@ -1,4 +1,4 @@
-<act>
+<act id="4 Vic 1">
     <formatting>sidenotes</formatting>
     <cover>
         <Short>New South Wales Laws Adopted Act 1841</Short>
@@ -10,17 +10,17 @@
         <Number>1</Number>
     </cover>
     <body>
-        <prov>
+        <prov id="4 Vic 1 p">
             <heading>Preamble</heading>
             <content>
-                <prov>
+                <prov id="4 Vic 2 p(1)">
                     <content>
                         <text>
-                            Whereas by an Act of the Governor and Legislative Council of New South Wales, made and passed in the third year of the reign of Her present Majesty, intituled <ref citation="3 Vic 28" jurisdiction="NSW">"An Act to declare that the Laws of New South Wales extend to Her Majesty's dominions in the Islands of New Zealand and to apply the same as far as applicable in the administration of Justice therein, and to indemnify certain Officers for acts already done."</ref><sidenote>3 Vict., No. 28</sidenote> after reciting that Her Majesty had been pleased to annex Her Majesty's dominions of New Zealand to the Government of New South Wales, it is enacted that all Laws and Acts or Ordinances of the Governor and Legislative Council of New South Wales which then were or thereafter might be in force within the said Colony should extend to and be applied in the administration<page number="2"></page> of justice within Her Majesty's dominions in the said Islands of New Zealand so far as they could be applied therein: And whereas under and by virtune of an Act of Parliament made and passed in the fourth year of Her said Majesty's reign, intituled <ref citation="3 Vic 62" jurisdiction="NSW">"An Act to continue until the thirty-first day of December, one thousand eight hundred and forty-one, and to the end of the then next ensuing session of Parliament, the provisions of any Act to provide for the administration of Justice in New South Wales and Van Dieman's Land, and for the more effectual government thereof, and for other purposes relative thereto,"</ref><sidenote>3 Vict., No. 62</sidenote> Her Majesty did, by Her Royal Charter and Letters Patent, under the Great seal of the United Kingdom of Great Britain and Ireland, bearing date at Westminster the sixteenth day of November, one thousand eight hundred and forty, erect into a separate Colony the Islands of New Zealand theretofore comprised within or dependencies of the Colony of New South Wales, with all other Islands lying between certain latitude and longitude therein mentioned, and did further provide that from thenceforth the said Islands should be known and designated as the Colony of New Zealand: And whereas by Her said Royal Charter and Letters Patent Her Majesty did constitute a Legislative Council for the said Colony of New Zealand, with full power and authority to make and ordain all such Laws and Ordinances as might be required for the peace order and good government of the said Colony: And whereas it is expedient until such Laws and Ordinances can be well considered and ordained that all such Laws Acts or Ordinances of New South Wales as are applicable to the Colony of New Zealand should continue to be acted upon and be applied therein.
+                            Whereas by an Act of the Governor and Legislative Council of New South Wales, made and passed in the third year of the reign of Her present Majesty, intituled <ref id="3 Vic 28" jurisdiction="NSW">"An Act to declare that the Laws of New South Wales extend to Her Majesty's dominions in the Islands of New Zealand and to apply the same as far as applicable in the administration of Justice therein, and to indemnify certain Officers for acts already done."</ref><sidenote>3 Vict., No. 28</sidenote> after reciting that Her Majesty had been pleased to annex Her Majesty's dominions of New Zealand to the Government of New South Wales, it is enacted that all Laws and Acts or Ordinances of the Governor and Legislative Council of New South Wales which then were or thereafter might be in force within the said Colony should extend to and be applied in the administration<page number="2"></page> of justice within Her Majesty's dominions in the said Islands of New Zealand so far as they could be applied therein: And whereas under and by virtune of an Act of Parliament made and passed in the fourth year of Her said Majesty's reign, intituled <ref id="3 Vic 62" jurisdiction="NSW">"An Act to continue until the thirty-first day of December, one thousand eight hundred and forty-one, and to the end of the then next ensuing session of Parliament, the provisions of any Act to provide for the administration of Justice in New South Wales and Van Dieman's Land, and for the more effectual government thereof, and for other purposes relative thereto,"</ref><sidenote>3 Vict., No. 62</sidenote> Her Majesty did, by Her Royal Charter and Letters Patent, under the Great seal of the United Kingdom of Great Britain and Ireland, bearing date at Westminster the sixteenth day of November, one thousand eight hundred and forty, erect into a separate Colony the Islands of New Zealand theretofore comprised within or dependencies of the Colony of New South Wales, with all other Islands lying between certain latitude and longitude therein mentioned, and did further provide that from thenceforth the said Islands should be known and designated as the Colony of New Zealand: And whereas by Her said Royal Charter and Letters Patent Her Majesty did constitute a Legislative Council for the said Colony of New Zealand, with full power and authority to make and ordain all such Laws and Ordinances as might be required for the peace order and good government of the said Colony: And whereas it is expedient until such Laws and Ordinances can be well considered and ordained that all such Laws Acts or Ordinances of New South Wales as are applicable to the Colony of New Zealand should continue to be acted upon and be applied therein.
                         </text>
                     </content>
                 </prov>
-                <prov>
+                <prov id="4 Vic 2 p(2)">
                     <content>
                         <text>
                             And in order to remove any doubt which may exist, whether the said Laws Acts or Ordinances of the said Governor and Legislative Council of New South Wales are and continue in force within the said Colony of New Zealand from and subsequent to the date and proclamation of such Her Majesty's said Royal Charter and Letters Patent:
@@ -29,7 +29,7 @@
                 </prov>
             </content>
         </prov>
-        <prov>
+        <prov id="4 Vic 1 s1">
             <id>1</id>
             <heading>So much of all Laws of New South Wales as have already been and can be applied to the Colony of New Zealand adopted</heading>
             <content>
@@ -38,7 +38,7 @@
                 </text>
             </content>
         </prov>
-        <prov>
+        <prov id="4 Vic 1 s2">
             <id>2</id>
             <heading>Indemnity for acts done since 16th November, 1840</heading>
             <content>
@@ -47,7 +47,7 @@
                 </text>
             </content>
         </prov>
-        <prov>
+        <prov id="4 Vic 1 s3">
             <id>3</id>
             <heading>Such acts declared valid</heading>
             <content>
@@ -56,7 +56,7 @@
                 </text>
             </content>
         </prov>
-        <prov>
+        <prov id="4 Vic 1 s4">
             <id>4</id>
             <heading>Interpretation clause</heading>
             <content>
