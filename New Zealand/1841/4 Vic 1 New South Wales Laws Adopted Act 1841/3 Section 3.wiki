@@ -1,4 +1,0 @@
-{{ol|start=3|item_style=font-weight:bold|Such acts declared valid.}}
-{{ol|type=none
-    | And be it further enacted, That no act done or performed by any such officer or other person aforesaid shall be questioned or avoided in any Court of Law by reason of any supposed want of power and authority, and that all such acts so done and performed shall be and they are declared to he as valid and effectual in law to all intents and purposes as if each of such officers and persons aforesaid had done and performed such acts within and under or by virtue of any Law or statute of the Parliament of Great Britain and Ireland.
-}}

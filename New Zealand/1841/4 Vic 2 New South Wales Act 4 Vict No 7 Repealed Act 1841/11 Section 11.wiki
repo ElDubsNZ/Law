@@ -1,4 +1,0 @@
-{{ol|start=11|item_style=font-weight:bold|}}
-{{ol|type=none
-    | 
-}}

@@ -1,5 +1,0 @@
-short Name = New South Wales Laws Adopted Act 1841
-Long Name  = An Ordinance to declare that the Laws of New South Wales so far as they can be made applicable shall extend to and be in force in Her Majesty's Royal Charter and Letters Patent erecting into a separate Colony the Islands of New Zealand, and to indemnify the Lieutenant-Governor and other Officers thereof for certain acts done and performed between the date of the said Royal Charter and Letters Patent and the day of passing this Ordinance.
-Enacted    = 1841-06-03
-Monarch    = 4 Victoria 1
-Format     = sidenotes
