@@ -138,4 +138,241 @@
             </content>
         </prov>
     </body>
+    <schedules>
+        <prov id="4 Vic 2 schA">
+            <id>A</id>
+            <heading>Commissioners' Oath</heading>
+            <content>
+                <text>
+                    I, <name />, do solemnly swear that I will faithfully diligently impartially and honestly, to the best of my ability, execute the several powers and trusts reposed in me as a Commissioner appointed under and by virtue of a certain Ordinance of the Governor of New Zealand, with the advice of the Legislative Council of the said Colony, made and passed in the fourth year of the reign of Her Majesty Queen Victoria, intituled <ref id="4 Vic 2">“An Ordinance to repeal within the said Colony of New Zealand a certain Act of the Governor and Legislative Council of New South Wales made and passed in the fourth year of the reign of Her present Majesty, and adopted under an Ordinance of the Governor and Legislative Council of New Zealand, for extending the Lacs of New South Wales to the said Colony of New Zealand, and which said Act of the Governor and Council of New South Wales is intituled, ‘An Act to empower the Governor of Hew South Wale to appoint Commissioners with certain powers to examine and report on Claims to Grants of Land in New Zealand, and also to terminate any Commission issued under the same, and to authorize the Governor of the Colony of New Zealand to appoint Commissioners with certain powers to examine and report on Claims to Grants of Land therein, and to declare all other titles except those allowed by the Crown null and void;’”</ref> and that I will not myself directly or indirectly take or receive any fee or reward for anything done or performed under and by virtue of the provisions of the said Ordinance other than and except such as is authorized by the said Ordinance. So help me God.
+                </text>
+            </content>
+        </prov>
+        <prov id="4 Vic 2 schB">
+            <id>B</id>
+            <content>
+                <table borders="line">
+                    <colspec>
+                        <column width="75%" />
+                        <column width="25%" />
+                    </colspec>
+                    <rows>
+                        <row type="heading" width="2" align="center">
+                            <column align="center">
+                                Period when the Purchase was made.
+                            </column>
+                            <column align="center">
+                                Per Acre.
+                            </column>
+                        </row>
+                        <row>
+                            <column align="center">
+                                <table borders="none">
+                                    <colspec>
+                                        <column width="30%" />
+                                        <column width="10%" />
+                                        <column width="30%" />
+                                        <column width="10%" />
+                                        <column width="10%" />
+                                        <column width="10%" />
+                                    </colspec>
+                                    <rows>
+                                        <row type="heading"></row>
+                                        <row>
+                                            <column>From 1st January,</column>
+                                            <column>1815,</column>
+                                            <column>to 31st December,</column>
+                                            <column>1824,</column>
+                                            <column>…</column>
+                                            <column>…</column>
+                                        </row>
+                                        <row>
+                                            <column>"</column>
+                                            <column>1825,</column>
+                                            <column>"</column>
+                                            <column>1829,</column>
+                                            <column>…</column>
+                                            <column>…</column>
+                                        </row>
+                                        <row>
+                                            <column>"</column>
+                                            <column>1830,</column>
+                                            <column>"</column>
+                                            <column>1834,</column>
+                                            <column>…</column>
+                                            <column>…</column>
+                                        </row>
+                                        <row>
+                                            <column>"</column>
+                                            <column>1835,</column>
+                                            <column>"</column>
+                                            <column>1836,</column>
+                                            <column>…</column>
+                                            <column>…</column>
+                                        </row>
+                                        <row>
+                                            <column>"</column>
+                                            <column>1837,</column>
+                                            <column>"</column>
+                                            <column>1838,</column>
+                                            <column>…</column>
+                                            <column>…</column>
+                                        </row>
+                                        <row>
+                                            <column>"</column>
+                                            <column>1839,</column>
+                                            <column>"</column>
+                                            <column>1839,</column>
+                                            <column>…</column>
+                                            <column>…</column>
+                                        </row>
+                                    </rows>
+                                </table>
+                            </column>
+                        </row>
+                        <row>
+                            <column align="center">
+                                <table borders="none">
+                                    <colspec>
+                                        <column width="15%" />
+                                        <column width="15%" />
+                                        <column width="40%" />
+                                        <column width="15%" />
+                                        <column width="15%" />
+                                    </colspec>
+                                    <rows>
+                                        <row type="header">
+                                            <column>s.</column>
+                                            <column>d.</column>
+                                            <column></column>
+                                            <column>s.</column>
+                                            <column>d.</column>
+                                        </row>
+                                        <row>
+                                            <column>0</column>
+                                            <column>6</column>
+                                            <column>to</column>
+                                            <column>0</column>
+                                            <column>0</column>
+                                        </row>
+                                        <row>
+                                            <column>0</column>
+                                            <column>6</column>
+                                            <column>"</column>
+                                            <column>0</column>
+                                            <column>8</column>
+                                        </row>
+                                        <row>
+                                            <column>0</column>
+                                            <column>8</column>
+                                            <column>"</column>
+                                            <column>1</column>
+                                            <column>0</column>
+                                        </row>
+                                        <row>
+                                            <column>1</column>
+                                            <column>0</column>
+                                            <column>"</column>
+                                            <column>2</column>
+                                            <column>0</column>
+                                        </row>
+                                        <row>
+                                            <column>2</column>
+                                            <column>0</column>
+                                            <column>"</column>
+                                            <column>4</column>
+                                            <column>0</column>
+                                        </row>
+                                        <row>
+                                            <column>4</column>
+                                            <column>0</column>
+                                            <column>"</column>
+                                            <column>8</column>
+                                            <column>0</column>
+                                        </row>
+                                    </rows>
+                                </table>
+                            </column>
+                        </row>
+                    </rows>
+                </table>
+                <text>
+                    And fifty per cent. above these rates for persons not personally resident in New Zealand or not having a resident agent on the spot.
+                </text>
+                <text>
+                    Goods when given to the Natives in barter for land to be estimated at three times their selling price in Sydney at the time.
+                </text>
+            </content>
+        </prov><page num="11" />
+        <prov id="4 Vic 2 schC">
+            <id>C</id>
+            <heading>Fees to be received by the said Commissioners</heading>
+            <content>
+                <table borders="none">
+                    <colspec>
+                        <column width="85%" />
+                        <column width="5%" />
+                        <column width="5%" />
+                        <column width="5%" />
+                    </colspec>
+                    <rows>
+                        <row type="heading">
+                            <column></column>
+                            <column>£.</column>
+                            <column>s.</column>
+                            <column>d.</column>
+                        </row>
+                        <row>
+                            <column>For filing any memorial with the Colonial Secretary, or opposition thereto</column>
+                            <column>5</column>
+                            <column>0</column>
+                            <column>0</column>
+                        </row>
+                        <row>
+                            <column>For every summons for witnesses, each summons containing two names, by the party requiring the same</column>
+                            <column>0</column>
+                            <column>5</column>
+                            <column>0</column>
+                        </row>
+                        <row>
+                            <column>For every witness examined, or document or voucher produced in evidence, by the party in whose behalf examined or produced</column>
+                            <column>0</column>
+                            <column>5</column>
+                            <column>0</column>
+                        </row>
+                        <row>
+                            <column>For taking down the examination of any witness</column>
+                            <column>0</column>
+                            <column>5</column>
+                            <column>0</column>
+                        </row>
+                        <row>
+                            <column>For every one hundred words after the first hundred, additional</column>
+                            <column>0</column>
+                            <column>2</column>
+                            <column>6</column>
+                        </row>
+                        <row>
+                            <column>For every certificate granted by Commissioners, of default, refusal to answer, or wilful withdrawing of any witness</column>
+                            <column>1</column>
+                            <column>0</column>
+                            <column>0</column>
+                        </row>
+                        <row>
+                            <column>For any final report, to be paid by the party or parties in whose favour made, when the extent of the land recommended be not exceeding five hundred acres</column>
+                            <column>5</column>
+                            <column>0</column>
+                            <column>0</column>
+                        </row>
+                        <row>
+                            <column>For every additional one hundred acres</column>
+                            <column>0</column>
+                            <column>10</column>
+                            <column>0</column>
+                        </row>
+                    </rows>
+                </table>
+            </content>
+        </prov>
+    </schedules>
 </act>
