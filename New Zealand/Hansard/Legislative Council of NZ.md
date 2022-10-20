@@ -349,7 +349,7 @@ titled to the fellowship of your countrymen.
                                       Secretary.
 Mr. Robert Tod, of Australia."
 
-After discussing the subjec tof calling on the armed inhabitants,
+After discussing the subject of calling on the armed inhabitants,
 
 Mr. Molesworth proposed, seconded by Mr. Hort:—"That full powers be given to Colonial Wakefield to effect such arrangements as he may consider requisite for calling out a protective force of the armed inhabitants of Port Nicholson."
 
