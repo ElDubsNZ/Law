@@ -451,7 +451,9 @@ The House divided on the question, That leave be given to introduce the Employme
 
 Ayes 42 Anderton Duynhoven Lee S Sutton Austin Dyson Mackey Swain Barker Elder Mallard Tennet Blincoe Field Matthewson Tirikatene-Sullivan Braybrooke Goff Moore Tizard Burton Henare Northey White Carter C Hodgson O'Connor Yates Caygill Hunt Peters Clark Keall Pettis Tellers: Cullen Kelly Robertson H V R Maharey Dalziel King Sinclair Sutherland
 
-Noes 46 Banks Gerard McKinnon Shipley Bradford Graham McLauchlan Simich Burdon Gray Marshall Smith L Carter D Gresham Maxwell Smith N Cliffe Hilt Meurant Sowry Cooper Kidd Neeson Storey Creech Kyd Neill Upton Dunne Laws O'Regan Williamson East Luxton Revell English McCardle Robertson J Tellers: Fletcher McClay Rogers Carter J Gardiner McCully Roy Ryall Majority against: 4
+Noes 46 Banks Gerard McKinnon Shipley Bradford Graham McLauchlan Simich Burdon Gray Marshall Smith L Carter D Gresham Maxwell Smith N Cliffe Hilt Meurant Sowry Cooper Kidd Neeson Storey Creech Kyd Neill Upton Dunne Laws O'Regan Williamson East Luxton Revell English McCardle Robertson J Tellers: Fletcher McClay Rogers Carter J Gardiner McCully Roy Ryall
+
+Majority against: 4
 
 Motion negatived.
 
