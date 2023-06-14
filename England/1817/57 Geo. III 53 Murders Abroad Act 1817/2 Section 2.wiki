@@ -1,4 +1,4 @@
 {{ol|start=2|item_style=font-weight:bold|Proviso for stat.33 H.8.c.21.}}
 {{ol|type=none
-    | Provided always, That nothing herein contained shall repeal or affect, or be construed to repeal or affect, the Provisions of an Act made and passed in the Thirty third Year of King Henry the Eighth, intituled {{sidenote|Proviso for stat.33 H.8c.23.}}''An Act to proceed by Commission of Oyer and Terminer against such Persons as shall confess Treason, etc. without remanding the same to be tried in the shire where the Offence was committed.''
+    | Provided always, That nothing herein contained shall repeal or affect, or be construed to repeal or affect, the Provisions of an Act made and passed in the Thirty third Year of King Henry the Eighth, intituled {{sidenote|Proviso for stat.33 H.8c.23.}}"An Act to proceed by Commission of Oyer and Terminer against such Persons as shall confess Treason, etc. without remanding the same to be tried in the shire where the Offence was committed."
 }}
