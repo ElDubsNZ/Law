@@ -445,9 +445,7 @@ The situation is that the Employment Contracts Act is claimed by National Party 
 
 The Employment Contracts Act, with significant levels of unemployment at its back, is a major contribution to the extension of that gap---the gap that is there, and which is present between the rich and the poor in any society. But in New Zealand the gap is becoming worse than in most other countries in the world in terms of its rate of expansion. International analyses that have been done on this matter prove that over and over again.
 
-Government members are saying that this is the position they want to see continue. They want to see those who are put at a disadvantage by legislation such as the Employment Contracts Act continue to be placed at a disadvantage, and the Alliance---supported by members of the Labour Party and, I hope, our colleagues in other third parties---is saying no to that, just as the majority of New Zealanders say no to that. It will not be long before there is a majority Parliament that imposes that kind of will--
-
--the will of the people in this place---to bring about that change. I urge the Government to jump before it is pushed.
+Government members are saying that this is the position they want to see continue. They want to see those who are put at a disadvantage by legislation such as the Employment Contracts Act continue to be placed at a disadvantage, and the Alliance---supported by members of the Labour Party and, I hope, our colleagues in other third parties---is saying no to that, just as the majority of New Zealanders say no to that. It will not be long before there is a majority Parliament that imposes that kind of will---the will of the people in this place---to bring about that change. I urge the Government to jump before it is pushed.
 
 The House divided on the question, That leave be given to introduce the Employment Contracts (Employment Rights) Bill.
 
