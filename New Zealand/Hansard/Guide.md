@@ -22,3 +22,7 @@ However this is not as easily parsable in a digital format as two or three aster
 In regular Hansard, votes are listed by listing the surnames of MPs (and adding initials after the name if removing ambiguity is required). e.g. Ayes 3 Smith Allan J Peters
 
 To make parsing easier, names have been separated by commas, and a colon where names begin. e.g. Ayes 3: Smith, Allan J, Peters
+
+# Pages
+
+Pages in the volume will be noted by HTML-style commenting and in the format volume.page, such as: <!--546.394-->, which is Volume 546, Page 394.
