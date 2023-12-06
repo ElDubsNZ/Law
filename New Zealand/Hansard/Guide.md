@@ -1,21 +1,16 @@
 # Call of the Speaker
 
-A member who is said to "Have the call of the speaker", i.e. the Speaker of the House has called upon them to make a speech will have their name in bold.
+A member who is said to "Have the call of the speaker", i.e. the Speaker of the House has called upon them to make a speech will have their name in capital letters.
 
-**John Smith (Electorate):**
+**JOHN SMITH (Electorate):**
 
-An interjecter, or member with a point of order, or anyone else without the call of the Speaker will have their name in bold *and* italics.
+An interjecter, or member with a point of order, or anyone else without the call of the Speaker will have their name in standard title case.
 
-***An Hon. Member:***
+**An Hon. Member:**
 
-The Speaker's name is always just bold, as they always have the right to Speak.
+The Speaker's name is always in caps, as they always have the right to Speak.
 
-**The Speaker:**
-
-This is different from regular Hansard where the MP with the call of the Speaker will be identified in all caps.
-JOHN SMITH (Electorate):
-
-However this is not as easily parsable in a digital format as two or three asterisks in a row.
+**THE SPEAKER:**
 
 # Votes
 
