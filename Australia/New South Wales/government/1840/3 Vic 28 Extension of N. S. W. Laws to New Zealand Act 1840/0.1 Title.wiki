@@ -1,4 +1,4 @@
-{{ol|type=none|item_style=font-weight:bold|{{sc|Extension of N. s. W. Laws to New Zealand.}}}}
+{{ol|type=none|item_style=font-weight:bold|Exᴛᴇɴsɪᴏɴ ᴏғ N. S. W. Lᴀᴡs ᴛᴏ Nᴇᴡ Zᴇᴀʟᴀɴᴅ.}}
 {{ol|type=none
     | An Act to declare that the Laws of New South Wales extend to Her Majesty's Dominions in the Islands of New Zealand and to apply the same so far as applicable in the Administration of Justice therein and to indemnify certain Officers for acts already done.
 }}
